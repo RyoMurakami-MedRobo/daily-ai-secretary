@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.png" alt="Daily AI Secretary — Obsidian × Gemini CLI" width="100%" />
+</p>
+
 # Daily AI Secretary
 
 > Obsidian × Gemini CLI で「自分専用のAI秘書」を動かす、最小構成のオープンソーステンプレート
