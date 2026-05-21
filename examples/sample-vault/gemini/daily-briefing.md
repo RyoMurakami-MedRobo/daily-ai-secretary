@@ -98,5 +98,5 @@
 
 ---
 
-*このbriefingは [Daily AI Secretary](https://github.com/YOUR_USERNAME/daily-ai-secretary) によって生成されました。*
+*このbriefingは [Daily AI Secretary](https://github.com/RyoMurakami-MedRobo/daily-ai-secretary) によって生成されました。*
 *過去のbriefing: `gemini/archive/`*

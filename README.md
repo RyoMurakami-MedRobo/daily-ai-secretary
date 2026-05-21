@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.png" alt="Daily AI Secretary — Obsidian × Gemini CLI" width="100%" />
+  <img src="assets/hero.jpg" alt="Daily AI Secretary — Obsidian × Gemini CLI" width="100%" />
 </p>
 
 # Daily AI Secretary
@@ -55,7 +55,7 @@ gemini  # 初回起動で認証
 ### 2. このリポジトリをクローン
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/daily-ai-secretary.git
+git clone https://github.com/RyoMurakami-MedRobo/daily-ai-secretary.git
 cd daily-ai-secretary
 ```
 

@@ -33,7 +33,7 @@ gemini -p "hello" --output-format text
 ## 3. このリポジトリの導入
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/daily-ai-secretary.git
+git clone https://github.com/RyoMurakami-MedRobo/daily-ai-secretary.git
 cd daily-ai-secretary
 ```
 
