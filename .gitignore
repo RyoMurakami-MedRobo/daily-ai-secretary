@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# 環境固有のパス・設定（個人を含む可能性あり）
+.env
+.env.local
+config.local.sh
+
+# Obsidianのキャッシュ
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Node
+node_modules/
+
+# その他
+*.tmp
+*.bak
